@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;p1.CircleWith&apos; to &apos;CircleWithException&apos;&#x0D;&#x0A;- Original project: &apos;Week8 P1&apos;&#x0D;&#x0A;- Original element: &apos;p1.CircleWith&apos;&#x0D;&#x0A;- Renamed element: &apos;p1.CircleWithException&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CircleWith&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;p1{CircleWith.java[CircleWith" matchStrategy="1" name="CircleWithException" qualified="false" references="true" similarDeclarations="false" stamp="1478583953009" textual="false" version="1.0"/>
+</session>

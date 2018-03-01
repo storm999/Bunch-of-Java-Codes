@@ -1,0 +1,11 @@
+package ha;
+
+public class Circle {
+
+		public double x, y;  // centre coordinate
+	       public double r;     //  radius of the circle
+
+
+	}
+
+

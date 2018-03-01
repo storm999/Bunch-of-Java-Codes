@@ -1,0 +1,15 @@
+package p1;
+
+public class Main {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		public static void main(String[] args) {
+			Circle3 myCircle = new Circle3(5.0);
+			printCircle(myCircle); 
+
+	}
+
+}

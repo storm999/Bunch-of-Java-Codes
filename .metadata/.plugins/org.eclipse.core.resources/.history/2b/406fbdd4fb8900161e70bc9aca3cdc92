@@ -1,0 +1,10 @@
+package p1;
+
+public class PrintToSc
+{
+	public static void printCircle(Circle3 c) 
+	{
+		System.out.println("The area of the circle of radius "
+	+ c.getRadius() + " is " + c.getArea());
+	}
+	}

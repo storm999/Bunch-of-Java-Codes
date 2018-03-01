@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;__ExclusiveWork.A.java&apos; to &apos;AdvancedEncryptionStandard.java&apos;&#x0D;&#x0A;- Original project: &apos;__ExclusiveWork&apos;&#x0D;&#x0A;- Original element: &apos;__ExclusiveWork.A.java&apos;&#x0D;&#x0A;- Renamed element: &apos;__ExclusiveWork.AdvancedEncryptionStandard.java&apos;" description="Rename compilation unit &apos;A.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;__ExclusiveWork{A.java" name="AdvancedEncryptionStandard.java" references="false" stamp="1492457630113" version="1.0"/>
+</session>
